@@ -1,5 +1,5 @@
 baseURL = 'https://kuwabaray.github.io/kuwabara-tech-note/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'kuwabara tech note'
 publishDir = "docs"
 theme = "chalk"
