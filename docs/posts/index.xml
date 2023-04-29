@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kuwabara tech note</title>
-    <link>https://kuwabaray.github.io/tech-note/posts/</link>
+    <link>https://kuwabaray.github.io/posts/</link>
     <description>Recent content in Posts on kuwabara tech note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2023 22:41:48 +0900</lastBuildDate><atom:link href="https://kuwabaray.github.io/tech-note/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 22:41:48 +0900</lastBuildDate><atom:link href="https://kuwabaray.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://kuwabaray.github.io/tech-note/posts/test/</link>
+      <link>https://kuwabaray.github.io/posts/test/</link>
       <pubDate>Sat, 29 Apr 2023 22:41:48 +0900</pubDate>
       
-      <guid>https://kuwabaray.github.io/tech-note/posts/test/</guid>
+      <guid>https://kuwabaray.github.io/posts/test/</guid>
       <description>本記事では、javaについて説明します。
 init </description>
     </item>
