@@ -1,0 +1,5 @@
+baseURL = 'https://kuwabaray.github.io/kuwabara-tech-note/'
+languageCode = 'en-us'
+title = 'kuwabara tech note'
+publishDir = "docs"
+theme = "chalk"
